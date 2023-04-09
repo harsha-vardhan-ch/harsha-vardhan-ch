@@ -20,7 +20,7 @@
 
 * CORE
 
-C
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -100,7 +100,6 @@ Ethers.js
 * Dev Environment
 
 Hardhat
-
 
 ## My GitHub Stats
 <a href="http://www.github.com/harsha-vardhan-ch"><img src="https://github-readme-stats.vercel.app/api?username=harsha-vardhan-ch&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harsha-vardhan-ch's GitHub stats" /></a>
